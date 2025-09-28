@@ -1,5 +1,5 @@
 [project]
-name = "Cogniquaint ERP"
+name = "cqerp"
 authors = [
     { name = "Cogniquaint Systems Pvt Ltd", email = "apps@cogniquaint.com"}
 ]
